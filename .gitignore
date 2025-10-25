@@ -3,4 +3,4 @@
 *.xlsx
 *.pdf
 ./CALISA
-.log
+*.log
