@@ -1,0 +1,454 @@
+{
+    "plan_de_cuentas": {
+        "rubros": [
+            {
+                "codigo": "01",
+                "nombre": "ACTIVIDADES AGROPECUARIAS, CAZA Y SILVICULTURA",
+                "subrubros": [
+                    {
+                        "codigo": "01.01",
+                        "nombre": "Cultivos agrícolas",
+                        "actividades": [
+                            "011111 - Cultivo de arroz",
+                            "011112 - Cultivo de trigo",
+                            "011119 - Cultivo de cereales n.c.p.",
+                            "011121 - Cultivo de maíz",
+                            "011129 - Cultivo de cereales de uso forrajero",
+                            "011130 - Cultivo de pastos de uso forrajero",
+                            "011211 - Cultivo de soja",
+                            "011291 - Cultivo de girasol",
+                            "011299 - Cultivo de oleaginosas n.c.p.",
+                            "011310 - Cultivo de papa, batata y mandioca",
+                            "011321 - Cultivo de tomate",
+                            "011329 - Cultivo de bulbos, brotes, raíces y hortalizas de fruto",
+                            "011331 - Cultivo de hortalizas de hoja",
+                            "011341 - Cultivo de legumbres frescas",
+                            "011342 - Cultivo de legumbres secas",
+                            "011400 - Cultivo de tabaco",
+                            "011501 - Cultivo de algodón",
+                            "011509 - Cultivo de plantas para fibras n.c.p.",
+                            "011911 - Cultivo de flores",
+                            "011912 - Cultivo de plantas ornamentales",
+                            "011990 - Cultivos temporales n.c.p."
+                        ]
+                    },
+                    {
+                        "codigo": "01.02",
+                        "nombre": "Cultivos perennes",
+                        "actividades": [
+                            "012110 - Cultivo de vid para vinificar",
+                            "012121 - Cultivo de uva de mesa",
+                            "012200 - Cultivo de frutas cítricas",
+                            "012311 - Cultivo de manzana y pera",
+                            "012319 - Cultivo de frutas de pepita n.c.p.",
+                            "012320 - Cultivo de frutas de carozo",
+                            "012410 - Cultivo de frutas tropicales y subtropicales",
+                            "012420 - Cultivo de frutas secas",
+                            "012490 - Cultivo de frutas n.c.p.",
+                            "012510 - Cultivo de caña de azúcar",
+                            "012590 - Cultivo de plantas sacaríferas n.c.p.",
+                            "012600 - Cultivo de frutos oleaginosos",
+                            "012701 - Cultivo de yerba mate",
+                            "012709 - Cultivo de té y otras infusiones",
+                            "012800 - Cultivo de especias y plantas aromáticas",
+                            "012900 - Cultivos perennes n.c.p."
+                        ]
+                    },
+                    {
+                        "codigo": "01.03",
+                        "nombre": "Ganadería",
+                        "actividades": [
+                            "014113 - Cría de ganado bovino",
+                            "014114 - Invernada de ganado bovino",
+                            "014115 - Engorde en corrales (Feed-Lot)",
+                            "014121 - Cría de ganado bovino en cabañas",
+                            "014211 - Cría de ganado equino",
+                            "014221 - Cría de ganado equino en haras",
+                            "014300 - Cría de camélidos",
+                            "014410 - Cría de ganado ovino",
+                            "014420 - Cría de ganado ovino en cabañas",
+                            "014430 - Cría de ganado caprino",
+                            "014440 - Cría de ganado caprino en cabañas",
+                            "014510 - Cría de ganado porcino",
+                            "014520 - Cría de ganado porcino en cabañas",
+                            "014610 - Producción de leche bovina",
+                            "014620 - Producción de leche de oveja y cabra",
+                            "014710 - Producción de lana y pelo",
+                            "014810 - Cría de aves de corral",
+                            "014820 - Producción de huevos",
+                            "014910 - Apicultura",
+                            "014920 - Cunicultura",
+                            "014930 - Cría de animales pelíferos",
+                            "014990 - Cría de animales n.c.p."
+                        ]
+                    },
+                    {
+                        "codigo": "01.04",
+                        "nombre": "Servicios agropecuarios",
+                        "actividades": [
+                            "016111 - Servicios de labranza y siembra",
+                            "016112 - Servicios de pulverización terrestre",
+                            "016113 - Servicios de pulverización aérea",
+                            "016120 - Servicios de cosecha mecánica",
+                            "016130 - Servicios de contratistas de mano de obra agrícola",
+                            "016140 - Servicios de post cosecha",
+                            "016210 - Inseminación artificial",
+                            "016220 - Servicios de contratistas de mano de obra pecuaria",
+                            "016230 - Servicios de esquila",
+                            "016291 - Servicios de control de plagas",
+                            "016292 - Albergue y cuidado de animales de terceros"
+                        ]
+                    },
+                    {
+                        "codigo": "01.05",
+                        "nombre": "Caza y repoblación",
+                        "actividades": [
+                            "017010 - Caza y repoblación de animales",
+                            "017020 - Servicios de apoyo para la caza"
+                        ]
+                    },
+                    {
+                        "codigo": "01.06",
+                        "nombre": "Silvicultura",
+                        "actividades": [
+                            "021010 - Plantación de bosques",
+                            "021020 - Repoblación y conservación de bosques",
+                            "021030 - Explotación de viveros forestales",
+                            "022010 - Extracción de productos forestales de bosques cultivados",
+                            "022020 - Extracción de productos forestales de bosques nativos",
+                            "024010 - Servicios forestales para extracción de madera",
+                            "024020 - Servicios forestales excepto extracción de madera"
+                        ]
+                    }
+                ]
+            },
+            {
+                "codigo": "02",
+                "nombre": "PESCA Y ACUICULTURA",
+                "subrubros": [
+                    {
+                        "codigo": "02.01",
+                        "nombre": "Pesca",
+                        "actividades": [
+                            "031110 - Pesca marina excepto buques procesadores",
+                            "031120 - Pesca y elaboración a bordo",
+                            "031130 - Recolección de organismos marinos",
+                            "031200 - Pesca continental",
+                            "031300 - Servicios de apoyo para la pesca"
+                        ]
+                    },
+                    {
+                        "codigo": "02.02",
+                        "nombre": "Acuicultura",
+                        "actividades": [
+                            "032000 - Explotación de criaderos de peces"
+                        ]
+                    }
+                ]
+            },
+            {
+                "codigo": "03",
+                "nombre": "MINERÍA",
+                "subrubros": [
+                    {
+                        "codigo": "03.01",
+                        "nombre": "Extracción de carbón y lignito",
+                        "actividades": [
+                            "051000 - Extracción de carbón",
+                            "052000 - Extracción de lignito"
+                        ]
+                    },
+                    {
+                        "codigo": "03.02",
+                        "nombre": "Extracción de petróleo y gas",
+                        "actividades": [
+                            "061000 - Extracción de petróleo crudo",
+                            "062000 - Extracción de gas natural"
+                        ]
+                    },
+                    {
+                        "codigo": "03.03",
+                        "nombre": "Extracción de minerales",
+                        "actividades": [
+                            "071000 - Extracción de minerales de hierro",
+                            "072100 - Extracción de uranio y torio",
+                            "072910 - Extracción de metales preciosos",
+                            "072990 - Extracción de minerales no ferrosos"
+                        ]
+                    },
+                    {
+                        "codigo": "03.04",
+                        "nombre": "Extracción de materiales para construcción",
+                        "actividades": [
+                            "081100 - Extracción de rocas ornamentales",
+                            "081200 - Extracción de piedra caliza y yeso",
+                            "081300 - Extracción de arenas y canto rodado",
+                            "081400 - Extracción de arcilla y caolín"
+                        ]
+                    }
+                ]
+            },
+            {
+                "codigo": "04",
+                "nombre": "INDUSTRIA MANUFACTURERA",
+                "subrubros": [
+                    {
+                        "codigo": "04.01",
+                        "nombre": "Alimentos y bebidas",
+                        "actividades": [
+                            "101011 - Matanza de ganado bovino",
+                            "101012 - Procesamiento de carne bovina",
+                            "102001 - Elaboración de pescados marinos",
+                            "103011 - Preparación de conservas",
+                            "104011 - Elaboración de aceites vegetales sin refinar",
+                            "105010 - Elaboración de leches deshidratadas",
+                            "106110 - Molienda de trigo",
+                            "107110 - Elaboración de galletitas",
+                            "108000 - Elaboración de alimentos para animales",
+                            "110211 - Elaboración de mosto",
+                            "110212 - Elaboración de vinos",
+                            "110300 - Elaboración de cerveza"
+                        ]
+                    },
+                    {
+                        "codigo": "04.02",
+                        "nombre": "Textiles y prendas",
+                        "actividades": [
+                            "131110 - Preparación de fibras textiles vegetales",
+                            "131131 - Fabricación de hilados de lana",
+                            "131132 - Fabricación de hilados de algodón",
+                            "131201 - Fabricación de tejidos de lana",
+                            "131202 - Fabricación de tejidos de algodón",
+                            "139100 - Fabricación de tejidos de punto",
+                            "141110 - Confección de ropa interior",
+                            "141120 - Confección de ropa de trabajo",
+                            "143010 - Fabricación de medias"
+                        ]
+                    },
+                    {
+                        "codigo": "04.03",
+                        "nombre": "Madera, papel e imprenta",
+                        "actividades": [
+                            "161001 - Aserrado de madera nativa",
+                            "162100 - Fabricación de tableros",
+                            "170101 - Fabricación de pasta de madera",
+                            "170102 - Fabricación de papel",
+                            "181101 - Impresión de diarios"
+                        ]
+                    },
+                    {
+                        "codigo": "04.04",
+                        "nombre": "Químicos, caucho y plástico",
+                        "actividades": [
+                            "201110 - Fabricación de gases industriales",
+                            "201210 - Fabricación de alcohol",
+                            "201300 - Fabricación de abonos",
+                            "202101 - Fabricación de insecticidas",
+                            "202200 - Fabricación de pinturas",
+                            "221110 - Fabricación de cubiertas",
+                            "222010 - Fabricación de envases plásticos"
+                        ]
+                    },
+                    {
+                        "codigo": "04.05",
+                        "nombre": "Metales y productos metálicos",
+                        "actividades": [
+                            "241001 - Laminación de hierro y acero",
+                            "242010 - Elaboración de aluminio",
+                            "251101 - Fabricación de carpintería metálica",
+                            "259910 - Fabricación de envases metálicos"
+                        ]
+                    },
+                    {
+                        "codigo": "04.06",
+                        "nombre": "Maquinaria y equipo",
+                        "actividades": [
+                            "281100 - Fabricación de motores y turbinas",
+                            "282110 - Fabricación de tractores",
+                            "282500 - Fabricación de maquinaria para alimentos",
+                            "291000 - Fabricación de vehículos automotores"
+                        ]
+                    }
+                ]
+            },
+            {
+                "codigo": "05",
+                "nombre": "ELECTRICIDAD, GAS Y AGUA",
+                "subrubros": [
+                    {
+                        "codigo": "05.01",
+                        "nombre": "Generación y distribución de energía",
+                        "actividades": [
+                            "351110 - Generación térmica convencional",
+                            "351120 - Generación térmica nuclear",
+                            "351130 - Generación hidráulica",
+                            "351190 - Generación n.c.p.",
+                            "351201 - Transporte de energía eléctrica",
+                            "351320 - Distribución de energía eléctrica"
+                        ]
+                    },
+                    {
+                        "codigo": "05.02",
+                        "nombre": "Agua y saneamiento",
+                        "actividades": [
+                            "360010 - Captación de aguas subterráneas",
+                            "360020 - Captación de aguas superficiales",
+                            "370000 - Depuración de aguas residuales"
+                        ]
+                    }
+                ]
+            },
+            {
+                "codigo": "06",
+                "nombre": "CONSTRUCCIÓN",
+                "subrubros": [
+                    {
+                        "codigo": "06.01",
+                        "nombre": "Edificación e ingeniería civil",
+                        "actividades": [
+                            "410011 - Construcción de edificios residenciales",
+                            "410021 - Construcción de edificios no residenciales",
+                            "421000 - Construcción de infraestructura de transporte",
+                            "422200 - Construcción de redes de servicios",
+                            "429010 - Construcción de obras hidráulicas"
+                        ]
+                    },
+                    {
+                        "codigo": "06.02",
+                        "nombre": "Servicios especializados de construcción",
+                        "actividades": [
+                            "431100 - Demolición",
+                            "431210 - Movimiento de suelos",
+                            "432110 - Instalación de sistemas eléctricos",
+                            "432200 - Instalación de gas y agua",
+                            "433010 - Carpintería y herrería de obra"
+                        ]
+                    }
+                ]
+            },
+            {
+                "codigo": "07",
+                "nombre": "COMERCIO",
+                "subrubros": [
+                    {
+                        "codigo": "07.01",
+                        "nombre": "Comercio mayorista",
+                        "actividades": [
+                            "461011 - Venta en comisión de cereales",
+                            "462131 - Venta mayorista de cereales",
+                            "463111 - Venta mayorista de lácteos",
+                            "463121 - Venta mayorista de carnes rojas",
+                            "464111 - Venta mayorista de tejidos",
+                            "464310 - Venta mayorista de productos farmacéuticos"
+                        ]
+                    },
+                    {
+                        "codigo": "07.02",
+                        "nombre": "Comercio minorista",
+                        "actividades": [
+                            "471110 - Venta en hipermercados",
+                            "471120 - Venta en supermercados",
+                            "472111 - Venta minorista de lácteos",
+                            "472130 - Venta minorista de carnes rojas",
+                            "473000 - Venta de combustibles",
+                            "474010 - Venta minorista de equipos informáticos"
+                        ]
+                    }
+                ]
+            },
+            {
+                "codigo": "08",
+                "nombre": "TRANSPORTE, ALMACENAMIENTO Y COMUNICACIONES",
+                "subrubros": [
+                    {
+                        "codigo": "08.01",
+                        "nombre": "Transporte terrestre",
+                        "actividades": [
+                            "492110 - Transporte urbano de pasajeros",
+                            "492210 - Servicios de mudanza",
+                            "492221 - Transporte de cereales"
+                        ]
+                    },
+                    {
+                        "codigo": "08.02",
+                        "nombre": "Transporte marítimo y aéreo",
+                        "actividades": [
+                            "501100 - Transporte marítimo de pasajeros",
+                            "501200 - Transporte marítimo de carga",
+                            "511000 - Transporte aéreo de pasajeros",
+                            "512000 - Transporte aéreo de carga"
+                        ]
+                    },
+                    {
+                        "codigo": "08.03",
+                        "nombre": "Comunicaciones",
+                        "actividades": [
+                            "611010 - Servicios de locutorios",
+                            "612000 - Servicios de telefonía móvil",
+                            "614010 - Servicios de acceso a internet"
+                        ]
+                    }
+                ]
+            },
+            {
+                "codigo": "09",
+                "nombre": "SERVICIOS FINANCIEROS, INMOBILIARIOS Y EMPRESARIALES",
+                "subrubros": [
+                    {
+                        "codigo": "09.01",
+                        "nombre": "Servicios financieros",
+                        "actividades": [
+                            "641910 - Servicios de banca mayorista",
+                            "641930 - Servicios de banca minorista",
+                            "649210 - Actividades de crédito",
+                            "651110 - Seguros de salud",
+                            "651120 - Seguros de vida"
+                        ]
+                    },
+                    {
+                        "codigo": "09.02",
+                        "nombre": "Servicios inmobiliarios",
+                        "actividades": [
+                            "681020 - Alquiler de consultorios médicos",
+                            "682091 - Servicios de inmobiliarias"
+                        ]
+                    },
+                    {
+                        "codigo": "09.03",
+                        "nombre": "Servicios empresariales",
+                        "actividades": [
+                            "692000 - Servicios de contabilidad",
+                            "702099 - Servicios de asesoramiento empresarial",
+                            "731009 - Servicios de publicidad",
+                            "750000 - Servicios veterinarios"
+                        ]
+                    }
+                ]
+            },
+            {
+                "codigo": "10",
+                "nombre": "SERVICIOS PERSONALES, SOCIALES Y EXTRATERRITORIALES",
+                "subrubros": [
+                    {
+                        "codigo": "10.01",
+                        "nombre": "Servicios personales",
+                        "actividades": [
+                            "960201 - Servicios de peluquería",
+                            "960202 - Servicios de tratamiento de belleza",
+                            "960300 - Pompas fúnebres"
+                        ]
+                    },
+                    {
+                        "codigo": "10.02",
+                        "nombre": "Servicios sociales y extraterritoriales",
+                        "actividades": [
+                            "870210 - Servicios de atención a ancianos con alojamiento",
+                            "949100 - Servicios de organizaciones religiosas",
+                            "990000 - Servicios de organismos extraterritoriales"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

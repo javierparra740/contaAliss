@@ -1,0 +1,11 @@
+instalar miniconda 
+
+luego crear un entorno dentro de la carpeta donde estamos situados con comando: conda create -n entorno_aliss python=3.13
+
+luego activar el entorno: conda activate entorno_aliss
+
+luego instalar dependencias necesarias para el proyecto: conda install pandas cryptography openpyxl reportlab
+
+luego correr el archivo calculos_rt54_rg4115.py que utiliza exportar.py para generar Excel y pdf
+
+para usar interface_gui.py hecha con flet previamente hay que instalar dependencias necesarias: conda install -c conda-forge flet

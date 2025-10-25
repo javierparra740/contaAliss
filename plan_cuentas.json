@@ -1,0 +1,307 @@
+{
+    "plan_de_cuenta": {
+        "hojas": [
+            {
+                "nombre": "plan de cuenta - extracción de gas natural",
+                "rubros": [
+                    {
+                        "codigo": "01.01",
+                        "nombre": "ACTIVO CORRIENTE",
+                        "subrubros": [
+                            {
+                                "codigo": "01.01.01",
+                                "nombre": "CAJA Y BANCOS",
+                                "subsubrubros": [
+                                    {
+                                        "codigo": "01.01.01.001",
+                                        "nombre": "Caja",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "01.01.01.001.001",
+                                                "nombre": "Caja en pesos",
+                                                "cf": "0"
+                                            },
+                                            {
+                                                "codigo": "01.01.01.001.002",
+                                                "nombre": "Caja en dólares",
+                                                "cf": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "codigo": "01.01.01.003",
+                                        "nombre": "Bancos",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "01.01.01.003.001",
+                                                "nombre": "Banco Santander - Cta. Cte. en pesos",
+                                                "cf": "0"
+                                            },
+                                            {
+                                                "codigo": "01.01.01.003.002",
+                                                "nombre": "Banco Santander - Cta. Cte. en dólares",
+                                                "cf": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "codigo": "01.01.01.006",
+                                        "nombre": "Plazos fijos",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "01.01.01.006.001",
+                                                "nombre": "Plazo fijo en pesos"
+                                            },
+                                            {
+                                                "codigo": "01.01.01.006.002",
+                                                "nombre": "Plazo fijo en dólares"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "codigo": "01.01.02",
+                                "nombre": "CRÉDITOS POR VENTAS",
+                                "subsubrubros": [
+                                    {
+                                        "codigo": "01.01.02.001",
+                                        "nombre": "Deudores por ventas de gas natural",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "01.01.02.001.001",
+                                                "nombre": "Deudores por ventas - Gas natural"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "codigo": "01.01.02.002",
+                                        "nombre": "Deudores por ventas de subproductos",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "01.01.02.002.001",
+                                                "nombre": "Deudores por ventas - Condensados"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "codigo": "01.01.03",
+                                "nombre": "OTROS CRÉDITOS",
+                                "subsubrubros": [
+                                    {
+                                        "codigo": "01.01.03.001",
+                                        "nombre": "IVA crédito fiscal",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "01.01.03.001.001",
+                                                "nombre": "IVA crédito fiscal - Bienes"
+                                            },
+                                            {
+                                                "codigo": "01.01.03.001.002",
+                                                "nombre": "IVA crédito fiscal - Servicios"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "codigo": "01.01.03.002",
+                                        "nombre": "Retenciones sufridas",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "01.01.03.002.001",
+                                                "nombre": "Retención IVA sufrida"
+                                            },
+                                            {
+                                                "codigo": "01.01.03.002.002",
+                                                "nombre": "Retención ganancias sufrida"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "codigo": "01.01.03.003",
+                                        "nombre": "Anticipos a proveedores",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "01.01.03.003.001",
+                                                "nombre": "Anticipos a proveedores de equipos"
+                                            },
+                                            {
+                                                "codigo": "01.01.03.003.002",
+                                                "nombre": "Anticipos a contratistas de perforación"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "codigo": "01.02",
+                        "nombre": "ACTIVO NO CORRIENTE",
+                        "subrubros": [
+                            {
+                                "codigo": "01.02.01",
+                                "nombre": "INVERSIONES INMOBILIARIAS",
+                                "subsubrubros": [
+                                    {
+                                        "codigo": "01.02.01.001",
+                                        "nombre": "Terrenos",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "01.02.01.001.001",
+                                                "nombre": "Terrenos - Yacimientos"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "codigo": "01.02.02",
+                                "nombre": "ACTIVOS FIJOS",
+                                "subsubrubros": [
+                                    {
+                                        "codigo": "01.02.02.001",
+                                        "nombre": "Instalaciones y equipos",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "01.02.02.001.001",
+                                                "nombre": "Plantas de procesamiento de gas"
+                                            },
+                                            {
+                                                "codigo": "01.02.02.001.002",
+                                                "nombre": "Equipos de perforación"
+                                            },
+                                            {
+                                                "codigo": "01.02.02.001.003",
+                                                "nombre": "Tuberías y cañerías"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "codigo": "01.02.02.002",
+                                        "nombre": "Vehículos",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "01.02.02.002.001",
+                                                "nombre": "Vehículos de transporte de personal"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "codigo": "04.01",
+                        "nombre": "INGRESOS",
+                        "subrubros": [
+                            {
+                                "codigo": "04.01.01",
+                                "nombre": "VENTAS",
+                                "subsubrubros": [
+                                    {
+                                        "codigo": "04.01.01.001",
+                                        "nombre": "Ventas de gas natural",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "04.01.01.001.001",
+                                                "nombre": "Ventas de gas natural - Mercado interno"
+                                            },
+                                            {
+                                                "codigo": "04.01.01.001.002",
+                                                "nombre": "Ventas de gas natural - Exportación"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "codigo": "04.01.01.002",
+                                        "nombre": "Ventas de subproductos",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "04.01.01.002.001",
+                                                "nombre": "Ventas de condensados"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "codigo": "04.02",
+                        "nombre": "EGRESOS",
+                        "subrubros": [
+                            {
+                                "codigo": "04.02.01",
+                                "nombre": "COSTOS DE EXTRACCIÓN",
+                                "subsubrubros": [
+                                    {
+                                        "codigo": "04.02.01.001",
+                                        "nombre": "Servicios de perforación",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "04.02.01.001.001",
+                                                "nombre": "Perforación de pozos de gas"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "codigo": "04.02.01.002",
+                                        "nombre": "Mano de obra directa",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "04.02.01.002.001",
+                                                "nombre": "Sueldos - Operarios de yacimiento"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "codigo": "04.02.01.003",
+                                        "nombre": "Energía y combustibles",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "04.02.01.003.001",
+                                                "nombre": "Gas oil para equipos"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "codigo": "04.02.02",
+                                "nombre": "GASTOS ADMINISTRATIVOS",
+                                "subsubrubros": [
+                                    {
+                                        "codigo": "04.02.02.001",
+                                        "nombre": "Sueldos y cargas sociales",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "04.02.02.001.001",
+                                                "nombre": "Sueldos - Personal administrativo"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "codigo": "04.02.02.002",
+                                        "nombre": "Servicios profesionales",
+                                        "cuentas": [
+                                            {
+                                                "codigo": "04.02.02.002.001",
+                                                "nombre": "Honorarios - Contadores"
+                                            },
+                                            {
+                                                "codigo": "04.02.02.002.002",
+                                                "nombre": "Honorarios - Ingenieros"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
