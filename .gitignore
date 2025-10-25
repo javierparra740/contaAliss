@@ -5,4 +5,5 @@
 ./CALISA
 *.log
 ./output
+./output/*.json
 .\output\.~lock.historico.xlsx#
